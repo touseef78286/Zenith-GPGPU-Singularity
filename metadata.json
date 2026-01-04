@@ -1,0 +1,7 @@
+{
+  "name": "ZENITH GPGPU Singularity",
+  "description": "A high-performance GPGPU particle experience featuring a gravitational singularity, curl noise movement, and space-time bending effects.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
